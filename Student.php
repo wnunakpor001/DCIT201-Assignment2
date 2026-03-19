@@ -1,7 +1,6 @@
 <?php
 
-class Student
-{
+class Student{
     // Private attributes demonstrating Encapsulation
 
     private $studentId;
