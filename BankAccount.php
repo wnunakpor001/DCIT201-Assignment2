@@ -1,7 +1,6 @@
 <?php
 
-class BankAccount
-{
+class BankAccount{
     // Private attributes (Encapsulation)
     private $accountNumber;
     private $accountHolderName;
